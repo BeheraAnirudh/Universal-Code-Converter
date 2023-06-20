@@ -1,0 +1,7 @@
+Time resolution is 1 ps
+Error: Test 1 failed: expected output = 0001, excess-3 to BCD conversion failed for input 0010
+Time: 10 ns  Iteration: 0  Process: /UniCodeConv_tb/stimulus  File: D:/ECE742/LAB/UniCodeConv_tb.vhd
+Error: Test 3 failed: expected output = 1101, BCD to excess-3 conversion failed for input 0110
+Time: 30 ns  Iteration: 0  Process: /UniCodeConv_tb/stimulus  File: D:/ECE742/LAB/UniCodeConv_tb.vhd
+Error: Test 4 failed: expected output = 0011, BCD to excess-3 conversion failed for input 1000
+Time: 40 ns  Iteration: 0  Process: /UniCodeConv_tb/stimulus  File: D:/ECE742/LAB/UniCodeConv_tb.vhd
